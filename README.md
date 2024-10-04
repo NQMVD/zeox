@@ -1,2 +1,3 @@
-# boss-cli
-The crate for boss.
+# zeox
+
+> A wrapper for the zeit cli tool.
