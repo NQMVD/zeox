@@ -1,0 +1,13 @@
+[package]
+name = "zeox"
+description = "A wrapper for the zeit cli tool"
+version = "0.1.0"
+edition = "2021"
+authors = ["Noah <noahbuergler@proton.me"]
+license = "GPL-3.0-or-later"
+repository = "https://github.com/NQMVD/zeox"
+documentation = "https://docs.rs/zeox"
+keywords = ["cli"]
+categories = ["command-line-utilities"]
+
+[dependencies]
